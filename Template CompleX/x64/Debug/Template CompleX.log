@@ -1,0 +1,139 @@
+﻿  main.cpp
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(94,29): warning C4129:  : неизвестная escape-последовательность
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(115,29): warning C4129:  : неизвестная escape-последовательность
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(136,26): warning C4305: аргумент: усечение из "double" в "const std::complex<float>::_Ty"
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(136,21): warning C4305: аргумент: усечение из "double" в "const std::complex<float>::_Ty"
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,25): warning C4305: аргумент: усечение из "double" в "const T"
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,25): warning C4305:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,25): warning C4305:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,25): warning C4305:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,25): warning C4305:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,18): warning C4305: аргумент: усечение из "double" в "const T"
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,18): warning C4305:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,18): warning C4305:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,18): warning C4305:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(163,18): warning C4305:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:             T=double
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(160,5):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "cmplx<float> &cmplx<float>::operator =<double>(const cmplx<double> &)"
+  		C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(160,5):
+  		см. первую ссылку на "cmplx<float>::operator =" в "main"
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:             T=double
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:             T=int
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,54):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(190,5):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "cmplx<float> &cmplx<float>::operator =<int>(const cmplx<int> &)"
+  		C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(190,5):
+  		см. первую ссылку на "cmplx<float>::operator =" в "main"
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:             T=int
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(54,70): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:             T=double
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:             T=int
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(190,9):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "cmplx<int> cmplx<int>::operator /<double>(const cmplx<double> &) const"
+  		C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(190,5):
+  		см. первую ссылку на "cmplx<int>::operator /" в "main"
+  	C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(148,10):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "cmplx<int> &cmplx<int>::operator /=<double>(const cmplx<double> &)"
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:             T=double
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:             T=int
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:             T=double
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(103,42):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(193,10):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "cmplx<float> cmplx<float>::operator /<double>(const cmplx<double> &) const"
+  		C:\Users\Студент\source\repos\Template CompleX\Template CompleX\main.cpp(193,5):
+  		см. первую ссылку на "cmplx<float>::operator /" в "main"
+  	C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(148,10):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "cmplx<float> &cmplx<float>::operator /=<double>(const cmplx<double> &)"
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         with
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:             T=double
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         ]
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         and
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         [
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:             T=float
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(105,42): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(117,1): warning C4715: cmplx<float>::operator/=<double>: значение возвращается не при всех путях выполнения
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(117,1): warning C4715: cmplx<int>::operator/=<double>: значение возвращается не при всех путях выполнения
+C:\Users\Студент\source\repos\Template CompleX\Template CompleX\cmplx.h(96,1): warning C4715: cmplx<float>::operator/=<int>: значение возвращается не при всех путях выполнения
+  Template CompleX.vcxproj -> C:\Users\Студент\source\repos\Template CompleX\x64\Debug\Template CompleX.exe
